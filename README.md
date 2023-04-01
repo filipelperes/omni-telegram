@@ -33,7 +33,7 @@ Download using the [GitHub .zip download](https://github.com/filipelperes/omni-t
 
 1. On Telegram Android, go to Settings, on Chat Settings, click on Browse Themes.
 2. Scroll up, on Build my own theme scroll left to the end and click in your installed theme.
-3. Click DONE and BUM, Omni on telegram desktop and android.
+3. Click DONE and BOOM!, Omni on telegram desktop and android.
 
 ## [contributors](https://github.com/filipelperes/omni-telegram/graphs/contributors)
 
