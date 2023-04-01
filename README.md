@@ -2,7 +2,7 @@
 
 > Help to improve this theme. Share and get fun.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./printscreen.png)
 
 ## Install
 
